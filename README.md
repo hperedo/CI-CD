@@ -1,5 +1,5 @@
 # CI-CD
-CI/CD
+CI/CD from https://github.com/gitlabhq/gitlabhq/blob/master/doc/ci/examples/index.md
 # GitLab CI/CD Examples **(FREE)**
 
 This page contains links to a variety of examples that can help you understand how to
